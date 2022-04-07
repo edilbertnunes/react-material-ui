@@ -2,7 +2,7 @@
 export const App = () => {
   return (
     <div className="App">
-      Teste
+      Teste Criação Brand Develop
     </div>
   );
 }
